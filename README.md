@@ -1,1 +1,1 @@
-Standardmappe
+The app shows all all toll booths in Norway

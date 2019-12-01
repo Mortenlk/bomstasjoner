@@ -1,0 +1,9 @@
+---
+title: "about"
+author: "Morten L. Kallevig"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: html_document
+---
+
+#### About
+Dette er en analyse av A-2
